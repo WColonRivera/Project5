@@ -17,10 +17,10 @@ public class DemoTest5 {
 
 		if (x>y) {
 			System.out.println("greater");
-		} else (
+		} else {
 			System.out.println("less");
 	}
-	
+	}
 	public void add (int a , int b) {
 		System.out.println(a+b);
 	}

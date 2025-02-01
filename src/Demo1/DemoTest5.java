@@ -3,7 +3,7 @@ package Demo1;
 public class DemoTest5 {
 	
 	public static void main(String[] args) {
-		System.out.println("Java");
+		System.out.println("Batch13: Git Lecture");
 		
 		int a = 10;
 		int b = 20;
@@ -11,6 +11,10 @@ public class DemoTest5 {
 		int result = a + b;
 		
 		System.out.println(result);
+	}
+	
+	public void add (int a , int b) {
+		System.out.println(a+b);
 	}
 
 }

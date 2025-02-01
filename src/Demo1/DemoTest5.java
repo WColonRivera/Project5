@@ -11,6 +11,14 @@ public class DemoTest5 {
 		int result = a + b;
 		
 		System.out.println(result);
+
+		int x = 10;
+		int y = 20;
+
+		if (x>y) {
+			System.out.println("greater");
+		} else (
+			System.out.println("less");
 	}
 	
 	public void add (int a , int b) {
